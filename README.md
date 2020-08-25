@@ -10,7 +10,7 @@ los ciclos de petición de datos se ejecutan en hilos aparte por medio de tareas
 
 La aplicación proporcina una medida de latencia por cada uno de los dos sensores, esta medida se toma realizando un promedio de varias medidas de latencia en el transcurso de la aplicación
 
-![ScreenShot](https://raw.githubusercontent.com/DavidErira/APP_REACT_Native_IMU/master/mano3D2.jpg)
+
 
 
 ## Autor

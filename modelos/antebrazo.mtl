@@ -1,0 +1,12 @@
+# Blender MTL File: 'Antebrazo.blend'
+# Material Count: 1
+
+newmtl asdf1:Beta_HighLimbsGeoSG2
+Ns 33.076915
+Ka 1.000000 1.000000 1.000000
+Kd 0.067526 0.837000 0.656024
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
